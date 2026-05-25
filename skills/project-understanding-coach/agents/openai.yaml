@@ -1,0 +1,3 @@
+display_name: Project Understanding Coach
+short_description: Learn projects through runtime logic.
+default_prompt: Use this skill to help me understand this project step by step. Start from the core runtime chain, ask one logic-focused question at a time, and write only our shared conclusions into notes.
